@@ -11,7 +11,6 @@ documentation = "https://docs.rs/jemallocator"
 description = """
 A Rust allocator backed by jemalloc
 """
-edition = "2015"
 
 [lib]
 test = false
